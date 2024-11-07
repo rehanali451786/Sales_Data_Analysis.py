@@ -1,0 +1,6 @@
+Order ID,Date,Product,Quantity Sold,Price Per Unit,Region
+1001,2023-01-05,Widget A,10,20,North
+1002,2023-01-10,Widget B,5,30,South
+1003,2023-02-15,Widget A,15,20,East
+1004,2023-03-20,Widget C,8,50,North
+1005,2023-03-25,Widget B,7,30,West
